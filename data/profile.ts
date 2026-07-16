@@ -22,7 +22,7 @@ export interface Profile {
 
 const profile: Profile = {
   name: "Rakshitha PM",
-  photo: "/profile-placeholder.svg",
+  photo: "/photo1.jpeg",
   role: "Product Management Intern",
   apprenticeId: "ZPN-NAG-001",
   shortBio:
