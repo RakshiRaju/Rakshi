@@ -21,21 +21,24 @@ export interface Profile {
 }
 
 const profile: Profile = {
-  name: "Jane Apprentice",
+  name: "Rakshitha PM",
   photo: "/profile-placeholder.svg",
-  role: "Full-Stack Engineering Track",
+  role: "Product Management Intern",
   apprenticeId: "ZPN-NAG-001",
   shortBio:
     "I'm a FORGE apprentice building real-world software skills through hands-on projects. " +
-    "This is my portfolio — replace this bio with a few sentences about who you are, " +
-    "what you're learning, and what you're excited to build next.",
-  forgeCohort: "April 2026",
-  skills: ["TypeScript", "React", "Next.js", "Node.js", "Git"],
+    "This is my portfolio — Rakshitha PM, Aspiring Product Manager Inetern Role." +
+    "I care more about structure, clarity, and execution than syntax" +
+  "— and I'm learning to build things that prove it."
+  forgeCohort: "Gradute in 2027",
+  skills: ["TypeScript", "React", "Python", "Node.js", "Git", "Execution & Ownership", "HTML", "CSS", "DS"
+
+],
   contact: {
-    email: "jane@example.com",
-    phone: "",
-    linkedin: "https://linkedin.com/in/example",
-    github: "https://github.com/example",
+    email: "rakshithapm.2005@gmail.com",
+    phone: "8147105917",
+    linkedin: "https://linkedin.com/in/rakshitha-pm-a10733293",
+    github: "https://github.com/RakshiRaju",
   },
 };
 
