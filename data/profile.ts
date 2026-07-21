@@ -31,7 +31,7 @@ const profile: Profile = {
     "I care more about structure, clarity, and execution than syntax" +
   "— and I'm learning to build things that prove it.",
   forgeCohort: "Gradute in 2027",
-  skills: ["TypeScript", "React", "Python", "Node.js", "Git", "Execution & Ownership", "HTML", "CSS", "DS"],
+  skills: ["TypeScript", "React", "Python", "Node.js", "Git", "Execution & Ownership", "HTML", "CSS", "DS", "AI-ML", "Next.js"],
   contact: {
     email: "rakshithapm.2005@gmail.com",
     phone: "8147105917",
