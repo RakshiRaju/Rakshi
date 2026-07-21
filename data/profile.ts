@@ -9,6 +9,11 @@ export interface ContactInfo {
   github?: string;
 }
 
+export interface Certificate {
+  name: string;
+  url: string;
+}
+
 export interface Profile {
   name: string;
   photo: string;
@@ -18,6 +23,8 @@ export interface Profile {
   forgeCohort: string;
   skills: string[];
   contact: ContactInfo;
+  resumeUrl: string;   
+  certificates: Certificate[]; 
 }
 
 const profile: Profile = {
@@ -37,6 +44,11 @@ const profile: Profile = {
     phone: "8147105917",
     linkedin: "https://linkedin.com/in/rakshitha-pm-a10733293",
     github: "https://github.com/RakshiRaju",
+    resumeUrl: "/resume.pdf",
+  certificates: [
+    { name: "FORGE Apprenticeship Certificate", url: "/certificates/forge-cert.pdf" },
+    { name: "Some Other Cert", url: "/certificates/other-cert.pdf" },
+  ],
   },
 };
 
