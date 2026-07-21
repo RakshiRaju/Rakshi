@@ -44,7 +44,7 @@ const profile: Profile = {
     phone: "8147105917",
     linkedin: "https://linkedin.com/in/rakshitha-pm-a10733293",
     github: "https://github.com/RakshiRaju",
-    resumeUrl: "/Resume (1).pdf",
+    resumeUrl: "/resume.pdf",
   certificates: [
     { name: "FORGE Apprenticeship Certificate", url: "/certificates/forge-cert.pdf" },
     { name: "Some Other Cert", url: "/certificates/other-cert.pdf" },
